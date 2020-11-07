@@ -3,9 +3,5 @@ public class CallbackTest {
         Logistics JD = new Logistics();
         Student s1 = new Student(JD);
         s1.bookComputer("3242354325");
-
-
-
-
     }
 }
